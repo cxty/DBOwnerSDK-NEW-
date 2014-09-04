@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>2F9657C1-B97C-4D01-B0D4-E3E7715A7437</string>
+	<key>IDESourceControlProjectName</key>
+	<string>DBOwnerSDK</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>04189EF4-47CB-4E20-B930-41F6A9CEEF7E</key>
+		<string>https://github.com/cxty/DBOwnerSDK.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>DBOwnerSDK.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>04189EF4-47CB-4E20-B930-41F6A9CEEF7E</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/cxty/DBOwnerSDK.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>110</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>04189EF4-47CB-4E20-B930-41F6A9CEEF7E</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>04189EF4-47CB-4E20-B930-41F6A9CEEF7E</string>
+			<key>IDESourceControlWCCName</key>
+			<string>DBOwnerSDK</string>
+		</dict>
+	</array>
+</dict>
+</plist>
